@@ -1,1 +1,2 @@
 # Connect-4-field-Game
+Developed a multi-player game in Java using Multi-threading, TCP and a Model-View-Controller (MVC) design. Each player has their individual game pieces. They enter these game pieces on an upside-down trapezoidal board displayed on the interface in such a way as to form a pattern of four in either direction or to hinder the other player from forming such a pattern. The players can play the game sitting on the same computer or on different computers connected over the network. Also, a single player can play the game against the computer
